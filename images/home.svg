@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="391.31201mm"
+   height="212.507mm"
+   viewBox="0 0 391.31202 212.507"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="home.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.52347032"
+     inkscape:cx="631.3634"
+     inkscape:cy="372.51396"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient923">
+      <stop
+         style="stop-color:#00d400;stop-opacity:1"
+         offset="0"
+         id="stop919" />
+      <stop
+         style="stop-color:#00d400;stop-opacity:1"
+         offset="1"
+         id="stop921" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient923"
+       id="linearGradient925"
+       x1="45.489685"
+       y1="22.744843"
+       x2="350.27057"
+       y2="187.01315"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:19.3511px;line-height:1.25;font-family:sans-serif;fill:url(#linearGradient925);fill-opacity:1;stroke:none;stroke-width:0.483779"
+       x="-0.0002450319"
+       y="13.880494"
+       id="text2366"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';fill:url(#linearGradient925);fill-opacity:1;stroke-width:0.483779"
+         x="-0.0002450319"
+         y="13.880494"
+         id="tspan34504">888b    888          user@neva</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';fill:url(#linearGradient925);fill-opacity:1;stroke-width:0.483779"
+         x="-0.0002450319"
+         y="38.197376"
+         id="tspan36482">8888b   888          --------------------</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';fill:url(#linearGradient925);fill-opacity:1;stroke-width:0.483779"
+         x="-0.0002450319"
+         y="62.514263"
+         id="tspan36484">88888b  888          OS: Neva 1.0.0</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';fill:url(#linearGradient925);fill-opacity:1;stroke-width:0.483779"
+         x="-0.0002450319"
+         y="86.831146"
+         id="tspan36486">888Y88b 888          Kernel: 5.neva.themes.site</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';fill:url(#linearGradient925);fill-opacity:1;stroke-width:0.483779"
+         x="-0.0002450319"
+         y="111.14803"
+         id="tspan36488">888 Y88b888          Uptime: 69 min</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';fill:url(#linearGradient925);fill-opacity:1;stroke-width:0.483779"
+         x="-0.0002450319"
+         y="135.4649"
+         id="tspan36490">888  Y88888          Packages: 420 (dpkg)</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';fill:url(#linearGradient925);fill-opacity:1;stroke-width:0.483779"
+         x="-0.0002450319"
+         y="159.7818"
+         id="tspan36492">888   Y8888          Shell: bashhhhhh</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';fill:url(#linearGradient925);fill-opacity:1;stroke-width:0.483779"
+         x="-0.0002450319"
+         y="184.09868"
+         id="tspan36496">888    Y888          Terminal: gnome-terminal</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';fill:url(#linearGradient925);fill-opacity:1;stroke-width:0.483779"
+         x="-0.0002450319"
+         y="208.41556"
+         id="tspan36498">                            Memory: 420MiB / 69000MiB</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="161.455mm"
+   height="24.795mm"
+   viewBox="0 0 161.455 24.795"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="404.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     width="161.455mm"
+     inkscape:zoom="1.4805976"
+     inkscape:cx="287.38395"
+     inkscape:cy="113.46769"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="147.23784"
+       y="340.40308"
+       width="806.43109"
+       height="210.72572"
+       id="rect2234" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.2645828,0,0,0.26347405,-39.180184,-90.478825)"
+       id="text2232"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';white-space:pre;shape-inside:url(#rect2234);fill:#00d400;fill-opacity:1"><tspan
+         x="147.23828"
+         y="377.16016"
+         id="tspan31379"><tspan
+   style="fill:#ffffff"
+   id="tspan31377">user@neva:~$</tspan> cd blahh blah blah
+</tspan><tspan
+         x="147.23828"
+         y="427.16016"
+         id="tspan31381">neva.404: no such file or directory</tspan></text>
+  </g>
+</svg>
