@@ -25,5 +25,5 @@ Give a ⭐️ if this project helped you!
 ## 📝 License
 
 Copyright © 2022 [NevaTeam](https://github.com/NevaTeam).<br />
-This project is [Apache License](https://github.com/NevaTeam/neva-themes/blob/main/LICENSE) licensed.
+This project is [Apache](https://github.com/NevaTeam/neva-themes/blob/main/LICENSE) licensed.
 
