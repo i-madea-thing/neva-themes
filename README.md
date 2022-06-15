@@ -6,7 +6,11 @@
   </a>
 </p>
 
+![Alt text](https://i.imgur.com/A5dLp8z.png)
+
 > Neva Themes is a Linux Themes Platform. We're working to turn our passion for Linux Themes into a booming online website. We hope you enjoy our Linux Themes as much as we enjoy offering them to you. We will keep posting more themes on our Website for all of you.
+
+
 
 ### 🏠 [Homepage](https://nevateam.github.io/neva-themes/index.html)
 
