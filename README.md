@@ -15,7 +15,7 @@
 👤 **NevaTeam**
 
 * Github: [@NevaTeam](https://github.com/NevaTeam)
-* Discord: [@NevaTeam](https://discord.com/invite/7x3D9v3aAY)
+* Discord: [@NevaThemes](https://discord.com/invite/7x3D9v3aAY)
 
 
 ## Show your support
