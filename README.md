@@ -1,8 +1,8 @@
 <h1 align="center">Welcome to Neva Themes 👋</h1>
 <p>
-  <img alt="Version" src="https://img.shields.io/badge/version-1.05.1-blue.svg?cacheSeconds=2592000" />
+  <img alt="Version" src="https://img.shields.io/badge/version-1.05.1-black.svg?cacheSeconds=2592000" />
   <a href="https://github.com/NevaTeam/neva-themes/blob/main/LICENSE" target="_blank">
-    <img alt="License: Apache License" src="https://img.shields.io/badge/License-Apache License-yellow.svg" />
+    <img alt="License: Apache License" src="https://img.shields.io/badge/License-Apache License-darkgreen.svg" />
   </a>
 </p>
 
